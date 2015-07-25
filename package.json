@@ -1,0 +1,22 @@
+{
+  "name": "jscraw",
+  "version": "1.0.0",
+  "description": "Web crawler using nodejs",
+  "main": "jscraw.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NgTan/jscraw.git"
+  },
+  "keywords": [
+    "jscraw"
+  ],
+  "author": "Tan Nguyen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NgTan/jscraw/issues"
+  },
+  "homepage": "https://github.com/NgTan/jscraw#readme"
+}
